@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://momoprotocol.finance/'
+    href: 'https://pixiuswap.finance/'
   },
   {
     label: 'Trade',
@@ -24,17 +24,17 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://momoprotocol.finance/farms'
+    href: 'https://pixiuswap.finance/farms'
   },
   {
     label: 'Staking',
     icon: 'PoolIcon',
-    href: 'https://momoprotocol.finance/staking'
+    href: 'https://pixiuswap.finance/staking'
   },
   {
     label: 'IDO',
     icon: 'IfoIcon',
-    href: 'https://momoprotocol.finance/ido',
+    href: 'https://pixiuswap.finance/ido',
   },
   // {
   //   label: 'Lottery',
@@ -69,7 +69,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/MomoProtocol762/",
+        href: "https://github.com/pixiuswap/",
       },
       // {
       //   label: "Docs",
@@ -77,7 +77,7 @@ const config: MenuEntry[] = [
       // },
       {
         label: "Blog",
-        href: "https://medium.com/@momoprotocol",
+        href: "https://medium.com/@pixiuswap",
       },
     ],
   },
