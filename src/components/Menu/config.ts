@@ -69,7 +69,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/MomoProtocol762/",
+        href: "https://github.com/pixiuswap/",
       },
       // {
       //   label: "Docs",
@@ -77,7 +77,7 @@ const config: MenuEntry[] = [
       // },
       {
         label: "Blog",
-        href: "https://medium.com/@momoprotocol",
+        href: "https://medium.com/@pixiuswap",
       },
     ],
   },
