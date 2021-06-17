@@ -1983,7 +1983,7 @@
     toformat "^2.0.0"
 
 "@pancakeswap-libs/uikit@pixiuswap/pixiu-uikit":
-  version "0.10.2"
+  version "0.1.33"
   resolved "https://codeload.github.com/pixiuswap/pixiu-uikit/tar.gz/99f4effcbf076f1fcea6f068d77274bccb796358"
   dependencies:
     "@types/lodash" "^4.14.162"
@@ -16217,4 +16217,3 @@ yocto-queue@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
-
