@@ -1982,9 +1982,10 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@pixiuswap/pixiu-uikit":
-  version "0.1.33"
-  resolved "https://codeload.github.com/pixiuswap/pixiu-uikit/tar.gz/99f4effcbf076f1fcea6f068d77274bccb796358"
+"@pixiuswap-libs/uikit@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@pixiuswap-libs/uikit/-/uikit-0.1.4.tgz#5e913cc984a91b8d5939979460d63ff69c7f232b"
+  integrity sha512-6Bm9JKf5X53A846EnbfDEBfZyT/FX0cBDwYAJUB9m9v+pUXvA5MJ75MpGUPzFAmR3sbtJ0/o0YixSaxgJ7HA9A==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
