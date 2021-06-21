@@ -1982,10 +1982,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pixiuswap-libs/uikitt@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@pixiuswap-libs/uikitt/-/uikitt-0.1.1.tgz#f7eaab2af1c42bd09a216c5d5f651f15957e9223"
-  integrity sha512-trRk9qtwJecidWOgvGtw+OoyHQsKbpngPLTwxRb/fc8KgtrVFg+p3jPO9kv48lqHGArG2z/WLVR115KJuhfD7w==
+"@pancakeswap-libs/uikit@pixiuswap/goose-uikit":
+  version "0.10.2"
+  resolved "https://codeload.github.com/pixiuswap/goose-uikit/tar.gz/4a665ca7b735e1fc9e22191b98912308a6001bbd"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
