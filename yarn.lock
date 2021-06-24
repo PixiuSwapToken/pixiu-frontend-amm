@@ -1969,7 +1969,7 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/sdk-v2@file:../pancakeswap-sdk-v2":
+"@pancakeswap-libs/sdk-v2@pixiuswap/pancakeswap-sdk-v2":
   version "2.2.0"
   dependencies:
     "@pancakeswap-libs/pancake-swap-core" "^0.1.0"
